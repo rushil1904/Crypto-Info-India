@@ -1,0 +1,1 @@
+Giving latest informtation about the various cryptocurrencies using the WazirX API. This will serve as the base for making projects like command line tools, bots for messaging platforms like Telegram and Discord etc.

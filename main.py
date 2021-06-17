@@ -25,3 +25,4 @@ if 'exchange' in response:
 if 'status' in response:
   jprint(market_status['markets']), jprint(market_status['assets'])
 
+#Similarly market depth and market trade history endpoints can be used for specific use cases. They will return json output and have a URL parameter of the specific market we want to target e.g. btcinr, btcusdt, etc. 
